@@ -1,0 +1,61 @@
+
+body{
+	background-color: gray;
+	font-family: sans-serif;
+}
+.content{
+	background-color: white;
+	width: 700px;
+	margin: auto;
+}
+body{
+	align-content: center;
+}
+h1{
+	text-align:center;
+	font-family: helvetica;
+	color: white;
+}
+nav{
+	text-align: center;
+}
+.portfolio{
+	color: black;
+	font-family: helvetica;
+	text-align: center;
+	width: 500px;
+	padding-left: 125px;
+}
+p{
+	width: 500px;
+}
+h3{
+	text-align: center;
+	font-family: helvetica;
+}
+.img-circle{
+	text-align: center;
+	border-radius: 50px;
+}
+a:link{
+	font-family: helvetica;
+	color: gray;
+	text-decoration: none;
+}
+a:visited{
+	color: gray;
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+}
+footer{
+	text-align: center;
+}
+caption{
+	font-family: helvetica;
+}
+br{
+	padding-top: 50px;
+	padding-bottom: 50px
+}
